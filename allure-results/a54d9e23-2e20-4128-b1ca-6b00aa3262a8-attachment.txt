@@ -1,0 +1,13 @@
+
+Tест-кейс №6
+{"status":"Сохранили объявление - f0bdd30c-9fe4-4641-9f0b-7b4a697f2015"}
+
+{"status":"Сохранили объявление - 5f2bc0c7-8dab-48a9-8174-8a34d744b318"}
+
+Оба объявления созданы
+Ссылка: https://qa-internship.avito.com/api/1/347079/item
+[{"createdAt":"2026-04-05 18:28:22.013472 +0300 +0300","id":"f0bdd30c-9fe4-4641-9f0b-7b4a697f2015","name":"item_1","price":1000,"sellerId":347079,"statistics":{"contacts":1,"likes":1,"viewCount":1}},{"createdAt":"2026-04-05 18:28:22.451879 +0300 +0300","id":"5f2bc0c7-8dab-48a9-8174-8a34d744b318","name":"item_2","price":2000,"sellerId":347079,"statistics":{"contacts":2,"likes":2,"viewCount":2}}]
+
+Статус-код: 200
+Список объявлений получен
+Все объявления принадлежат нужному sellerId

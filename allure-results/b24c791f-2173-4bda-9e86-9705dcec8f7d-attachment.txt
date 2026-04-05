@@ -1,0 +1,8 @@
+
+Tест-кейс №5
+Ссылка: https://qa-internship.avito.com/api/1/item/698cd2af-f947-426e-b76a-168afc9fc49f
+{"result":{"message":"item 698cd2af-f947-426e-b76a-168afc9fc49f not found","messages":null},"status":"404"}
+
+Статус-код: 404.
+Поле message внутри ответа (внутри поля result есть)
+Текст "not found" в поле message есть.

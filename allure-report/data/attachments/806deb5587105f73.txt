@@ -1,0 +1,12 @@
+
+Tест-кейс №4
+{"status":"Сохранили объявление - 2b722c6d-57af-4580-9ba9-c0b164641d22"}
+
+Статус-код: 200.
+Ссылка: https://qa-internship.avito.com/api/1/item/2b722c6d-57af-4580-9ba9-c0b164641d22
+[{"createdAt":"2026-04-05 18:28:20.744998 +0300 +0300","id":"2b722c6d-57af-4580-9ba9-c0b164641d22","name":"test_item","price":1000,"sellerId":880380,"statistics":{"contacts":1,"likes":1,"viewCount":1}}]
+
+Статус-код: 200.
+ID соответствует
+name соответствует
+price соответствует
